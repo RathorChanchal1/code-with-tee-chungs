@@ -2,7 +2,7 @@
 
 This repository contains solutions for the **Google SDE Sheet** from GeeksforGeeks.
 
-📌 **Full Google SDE Sheet:** [Google SDE Sheet - Interview Questions and Answers](https://www.geeksforgeeks.org/google-sde-sheet-interview-questions-and-answers/)
+📌 **Full Google SDE Sheet:** <a href="https://www.geeksforgeeks.org/google-sde-sheet-interview-questions-and-answers/" target="_blank">Google SDE Sheet - Interview Questions and Answers</a>
 
 ## 📌 Arrays 🔽
 
@@ -20,7 +20,7 @@ This repository contains solutions for the **Google SDE Sheet** from GeeksforGee
 ## 📌 How to Use
 1. Clone this repo:
    ```sh
-   git clone https://github.com/RathorChanchal1/personalGitProjects.git
+   git clone https://github.com/yourusername/google-sde-sheet
    cd google-sde-sheet
    ```
 2. Click on the links above to access the questions and solutions.
