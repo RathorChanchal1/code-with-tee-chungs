@@ -9,7 +9,7 @@ This repository contains solutions for the **Google SDE Sheet** from GeeksforGee
 <details>
   <summary>Click to expand</summary>
   
-  1. **[Reverse an Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array/)** - [Solution](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array/)
+  1. **[find subarray with given sum](https://www.geeksforgeeks.org/find-subarray-with-given-sum)** - [Solution](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array/)
   2. **[Find Maximum and Minimum in an Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)** - [Solution](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
   3. **[Kadane’s Algorithm (Maximum Subarray Sum)](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)** - [Solution](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
   4. **[Sort an Array of 0s, 1s, and 2s](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)** - [Solution](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)
