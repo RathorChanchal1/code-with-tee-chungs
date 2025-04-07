@@ -10,20 +10,14 @@
   - **1.2 [moveZeroes](https://leetcode.com/problems/move-zeroes/description/)**  
     [Solution](https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution1.java)  
 
+  - **1.3 [majorityElement](https://leetcode.com/problems/majority-element/description/)**  
+  [Solution](https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution2.java) 
+
 </details>
 
 ---
 
 ## More Problems Coming Soon...
-
-
-## 📚 Top Interview Questions
-
-1. **[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150)**  
-   📦 **Solution:** [LeetCodeProblem1.java](https://github.com/RathorChanchal1/personalGitProjects/blob/main/LeetCodeProblem1.java)
-
-2. **[Merge Sorted Array](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150)**  
-   📦 **Solution:** [LeetCodeProblem1.java](https://github.com/RathorChanchal1/personalGitProjects/blob/main/LeetCodeProblem1.java)
 
 ---
 
