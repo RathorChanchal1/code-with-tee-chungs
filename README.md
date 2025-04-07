@@ -1,17 +1,16 @@
-# LeetCode Solutions: 150 Problems
 # 🌟 LeetCode Solutions: 150 Problems
 
 <details>
   <summary><strong>1. Array Problems</strong></summary>
 
-  - **1.1 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)**  
-    [Solution](https://github.com/RathorChanchal1/personalGitProjects/blob/main/MergeSort.java)  
+  - **1.1 <a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank" rel="noopener noreferrer">Merge Sorted Array</a>**  
+    <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/MergeSort.java" target="_blank" rel="noopener noreferrer">Solution</a>
 
-  - **1.2 [moveZeroes](https://leetcode.com/problems/move-zeroes/description/)**  
-    [Solution](https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution1.java)  
+  - **1.2 <a href="https://leetcode.com/problems/move-zeroes/description/" target="_blank" rel="noopener noreferrer">moveZeroes</a>**  
+    <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution1.java" target="_blank" rel="noopener noreferrer">Solution</a>
 
-  - **1.3 [majorityElement](https://leetcode.com/problems/majority-element/description/)**  
-  [Solution](https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution2.java) 
+  - **1.3 <a href="https://leetcode.com/problems/majority-element/description/" target="_blank" rel="noopener noreferrer">majorityElement</a>**  
+    <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution2.java" target="_blank" rel="noopener noreferrer">Solution</a>
 
 </details>
 
@@ -29,6 +28,6 @@
 ---
 
 ## 📧 Contact
-For any questions, you can reach out to me on [LinkedIn](https://linkedin.com/in/chanchal-rathor).
+For any questions, you can reach out to me on <a href="https://linkedin.com/in/chanchal-rathor" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
 
 Happy Coding! 💻
