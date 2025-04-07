@@ -12,6 +12,10 @@
   - **1.3 <a href="https://leetcode.com/problems/majority-element/description/" target="_blank" rel="noopener noreferrer">majorityElement</a>**  
     <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution2.java" target="_blank" rel="noopener noreferrer">Solution</a>
 
+  - **1.4 <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/" target="_blank" rel="noopener noreferrer">removeDuplicates</a>**  
+    <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution3.java" target="_blank" rel="noopener noreferrer">Solution</a>
+  
+
 </details>
 
 ---
