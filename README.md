@@ -15,7 +15,7 @@
   - **1.4 <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/" target="_blank" rel="noopener noreferrer">removeDuplicates</a>**  
     <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution3.java" target="_blank" rel="noopener noreferrer">Solution</a>
   
-  - **1.5 <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/" target="_blank" rel="noopener noreferrer">removeDuplicates</a>**  
+  - **1.5 <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/" target="_blank" rel="noopener noreferrer">maxProfit</a>**  
   <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution4.java" target="_blank" rel="noopener noreferrer">Solution</a>
 
 
