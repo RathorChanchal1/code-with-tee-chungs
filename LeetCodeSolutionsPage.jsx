@@ -58,36 +58,36 @@ const problems = [
 
 export default function LeetCodeSolutionsPage() {
   return (
-    <div className="p-6 max-w-5xl mx-auto">
-      <h1 className="text-3xl font-bold mb-6 text-center">🌟 Coding Interview Problems</h1>
+    <div className="min-h-screen bg-gradient-to-b from-white to-sky-50 p-6 max-w-6xl mx-auto">
+      <h1 className="text-4xl font-bold mb-10 text-center text-gray-800">🌟 Coding Interview Problems</h1>
 
       {problems.map((section, index) => (
-        <div key={index} className="mb-10">
-          <h2 className="text-2xl font-semibold mb-4">
+        <div key={index} className="mb-16">
+          <h2 className="text-3xl font-semibold mb-6 text-indigo-600 flex items-center gap-2">
             {section.category} {section.sheetLink && (
               <a
                 href={section.sheetLink}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="ml-2 text-blue-500 underline text-sm"
+                className="text-sm text-blue-500 underline"
               >
                 (Visit Sheet)
               </a>
             )}
           </h2>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {section.list.map((problem, i) => (
-              <Card key={i}>
-                <CardContent className="p-4">
-                  <h3 className="text-lg font-medium mb-2">{problem.title}</h3>
+              <Card key={i} className="hover:shadow-xl transition-shadow duration-300">
+                <CardContent className="p-6">
+                  <h3 className="text-xl font-semibold mb-4 text-gray-700">{problem.title}</h3>
                   <div className="flex gap-4">
-                    <Button asChild variant="outline">
+                    <Button asChild variant="outline" className="w-full">
                       <a href={problem.link} target="_blank" rel="noopener noreferrer">
                         LeetCode
                       </a>
                     </Button>
-                    <Button asChild variant="default">
+                    <Button asChild variant="default" className="w-full">
                       <a href={problem.solution} target="_blank" rel="noopener noreferrer">
                         Solution
                       </a>
@@ -100,7 +100,7 @@ export default function LeetCodeSolutionsPage() {
         </div>
       ))}
 
-      <footer className="mt-12 text-center text-sm text-gray-500">
+      <footer className="mt-20 text-center text-sm text-gray-500">
         📧 Contact me on{' '}
         <a
           href="https://linkedin.com/in/chanchal-rathor"
