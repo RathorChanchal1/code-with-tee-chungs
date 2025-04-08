@@ -83,7 +83,7 @@ export default function LeetCodeSolutionsPage() {
                 <Card className="hover:shadow-xl transition-shadow duration-300">
                   <CardContent className="p-6">
                     <h3 className="text-xl font-semibold mb-4 text-gray-700">
-                      {i + 1}. {problem.title}
+                      {i + 1}. {problem.title.replace(/-/g, ' ')}
                     </h3>
                     <div className="flex gap-4">
                       <Button asChild variant="outline" className="w-full">
