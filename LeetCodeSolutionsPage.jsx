@@ -64,7 +64,8 @@ export default function LeetCodeSolutionsPage() {
       {problems.map((section, index) => (
         <div key={index} className="mb-16">
           <h2 className="text-3xl font-semibold mb-6 text-indigo-600 flex items-center gap-2">
-            {section.category} {section.sheetLink && (
+            {section.category}{" "}
+            {section.sheetLink && (
               <a
                 href={section.sheetLink}
                 target="_blank"
@@ -76,27 +77,31 @@ export default function LeetCodeSolutionsPage() {
             )}
           </h2>
 
-          <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <ul className="space-y-6">
             {section.list.map((problem, i) => (
-              <Card key={i} className="hover:shadow-xl transition-shadow duration-300">
-                <CardContent className="p-6">
-                  <h3 className="text-xl font-semibold mb-4 text-gray-700">{problem.title}</h3>
-                  <div className="flex gap-4">
-                    <Button asChild variant="outline" className="w-full">
-                      <a href={problem.link} target="_blank" rel="noopener noreferrer">
-                        LeetCode
-                      </a>
-                    </Button>
-                    <Button asChild variant="default" className="w-full">
-                      <a href={problem.solution} target="_blank" rel="noopener noreferrer">
-                        Solution
-                      </a>
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
+              <li key={i}>
+                <Card className="hover:shadow-xl transition-shadow duration-300">
+                  <CardContent className="p-6">
+                    <h3 className="text-xl font-semibold mb-4 text-gray-700">
+                      {i + 1}. {problem.title}
+                    </h3>
+                    <div className="flex gap-4">
+                      <Button asChild variant="outline" className="w-full">
+                        <a href={problem.link} target="_blank" rel="noopener noreferrer">
+                          LeetCode
+                        </a>
+                      </Button>
+                      <Button asChild variant="default" className="w-full">
+                        <a href={problem.solution} target="_blank" rel="noopener noreferrer">
+                          Solution
+                        </a>
+                      </Button>
+                    </div>
+                  </CardContent>
+                </Card>
+              </li>
             ))}
-          </div>
+          </ul>
         </div>
       ))}
 
