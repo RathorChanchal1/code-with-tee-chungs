@@ -1,4 +1,12 @@
-<!-- # 🌟 LeetCode Solutions: 150 Problems
+## 🚀 Start Coding Today
+
+👉 **🔗 [Click here to explore the live site!](https://coding-solution-showcase.lovable.app/)**
+
+Master top interview problems with structured solutions and clean UI.  
+Start your coding journey now!
+
+
+# 🌟 LeetCode Solutions: 150 Problems
 
 <details>
   <summary><strong>1. Array Problems</strong></summary>
@@ -54,4 +62,4 @@
 ## 📧 Contact
 For any questions, you can reach out to me on <a href="https://linkedin.com/in/chanchal-rathor" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
 
-Happy Coding! 💻 -->
+Happy Coding! 💻
