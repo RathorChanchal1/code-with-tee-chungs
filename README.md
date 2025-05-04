@@ -23,7 +23,7 @@ Start your coding journey now!
   - **1.4 <a href="https://leetcode.com/problems/product-of-array-except-self/description/" target="_blank" rel="noopener noreferrer">removeDuplicates</a>**  
     <a href="https://github.com/RathorChanchal1/code-with-tee-chungs/blob/main/Strive75BlindSheet/Solution4.java" target="_blank" rel="noopener noreferrer">Solution</a>
   
-  - **1.5 <a href="https://leetcode.com/problems/maximum-subarray/description/" target="_blank" rel="noopener noreferrer">maxProfit</a>**  
+  - **1.5 <a href="https://leetcode.com/problems/maximum-subarray/description/" target="_blank" rel="noopener noreferrer">Maximum Product Subarray</a>**  
   <a href="https://github.com/RathorChanchal1/code-with-tee-chungs/blob/main/Strive75BlindSheet/Solution5.java" target="_blank" rel="noopener noreferrer">Solution</a>
 
 
