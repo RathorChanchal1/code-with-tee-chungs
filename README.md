@@ -6,6 +6,33 @@ Master top interview problems with structured solutions and clean UI.
 Start your coding journey now!
 
 
+# 🌟 Blind 75 Leetcode problems: Striver
+
+<details>
+  <summary><strong>1. Array Problems</strong></summary>
+
+  - **1.1 <a href="https://leetcode.com/problems/two-sum/description/" target="_blank" rel="noopener noreferrer">Merge Sorted Array</a>**  
+    <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/MergeSort.java" target="_blank" rel="noopener noreferrer">Solution</a>
+
+  - **1.2 <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/" target="_blank" rel="noopener noreferrer">moveZeroes</a>**  
+    <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution1.java" target="_blank" rel="noopener noreferrer">Solution</a>
+
+  - **1.3 <a href="https://leetcode.com/problems/contains-duplicate/description/" target="_blank" rel="noopener noreferrer">majorityElement</a>**  
+    <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution2.java" target="_blank" rel="noopener noreferrer">Solution</a>
+
+  - **1.4 <a href="https://leetcode.com/problems/product-of-array-except-self/description/" target="_blank" rel="noopener noreferrer">removeDuplicates</a>**  
+    <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution3.java" target="_blank" rel="noopener noreferrer">Solution</a>
+  
+  - **1.5 <a href="https://leetcode.com/problems/maximum-subarray/description/" target="_blank" rel="noopener noreferrer">maxProfit</a>**  
+  <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution4.java" target="_blank" rel="noopener noreferrer">Solution</a>
+
+
+  
+
+</details>
+
+---
+
 # 🌟 LeetCode Solutions: 150 Problems
 
 <details>
@@ -31,7 +58,7 @@ Start your coding journey now!
 
 </details>
 
----
+----
 
 ## More Problems Coming Soon...
 
