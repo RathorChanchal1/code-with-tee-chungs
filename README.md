@@ -11,20 +11,20 @@ Start your coding journey now!
 <details>
   <summary><strong>1. Array Problems</strong></summary>
 
-  - **1.1 <a href="https://leetcode.com/problems/two-sum/description/" target="_blank" rel="noopener noreferrer">Merge Sorted Array</a>**  
-    <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/MergeSort.java" target="_blank" rel="noopener noreferrer">Solution</a>
+  - **1.1 <a href="https://leetcode.com/problems/two-sum/description/" target="_blank" rel="noopener noreferrer">	2Sum Problem</a>**  
+    <a href="https://github.com/RathorChanchal1/code-with-tee-chungs/blob/main/Strive75BlindSheet/Solution1.java" target="_blank" rel="noopener noreferrer">Solution</a>
 
-  - **1.2 <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/" target="_blank" rel="noopener noreferrer">moveZeroes</a>**  
-    <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution1.java" target="_blank" rel="noopener noreferrer">Solution</a>
+  - **1.2 <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/" target="_blank" rel="noopener noreferrer">	Best Time to Buy and Sell Stock |(DP-35)</a>**  
+    <a href="https://github.com/RathorChanchal1/code-with-tee-chungs/blob/main/Strive75BlindSheet/Solution2.java" target="_blank" rel="noopener noreferrer">Solution</a>
 
-  - **1.3 <a href="https://leetcode.com/problems/contains-duplicate/description/" target="_blank" rel="noopener noreferrer">majorityElement</a>**  
-    <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution2.java" target="_blank" rel="noopener noreferrer">Solution</a>
+  - **1.3 <a href="https://leetcode.com/problems/contains-duplicate/description/" target="_blank" rel="noopener noreferrer">Contains Duplicate</a>**  
+    <a href="https://github.com/RathorChanchal1/code-with-tee-chungs/blob/main/Strive75BlindSheet/Solution3.java" target="_blank" rel="noopener noreferrer">Solution</a>
 
   - **1.4 <a href="https://leetcode.com/problems/product-of-array-except-self/description/" target="_blank" rel="noopener noreferrer">removeDuplicates</a>**  
-    <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution3.java" target="_blank" rel="noopener noreferrer">Solution</a>
+    <a href="https://github.com/RathorChanchal1/code-with-tee-chungs/blob/main/Strive75BlindSheet/Solution4.java" target="_blank" rel="noopener noreferrer">Solution</a>
   
   - **1.5 <a href="https://leetcode.com/problems/maximum-subarray/description/" target="_blank" rel="noopener noreferrer">maxProfit</a>**  
-  <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution4.java" target="_blank" rel="noopener noreferrer">Solution</a>
+  <a href="https://github.com/RathorChanchal1/code-with-tee-chungs/blob/main/Strive75BlindSheet/Solution5.java" target="_blank" rel="noopener noreferrer">Solution</a>
 
 
   
@@ -47,10 +47,10 @@ Start your coding journey now!
   - **1.3 <a href="https://leetcode.com/problems/majority-element/description/" target="_blank" rel="noopener noreferrer">majorityElement</a>**  
     <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution2.java" target="_blank" rel="noopener noreferrer">Solution</a>
 
-  - **1.4 <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/" target="_blank" rel="noopener noreferrer">removeDuplicates</a>**  
+  - **1.4 <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/" target="_blank" rel="noopener noreferrer">Product of Array Except Self</a>**  
     <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution3.java" target="_blank" rel="noopener noreferrer">Solution</a>
   
-  - **1.5 <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/" target="_blank" rel="noopener noreferrer">maxProfit</a>**  
+  - **1.5 <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/" target="_blank" rel="noopener noreferrer">Kadane's Algorithm, maximum subarray sum</a>**  
   <a href="https://github.com/RathorChanchal1/personalGitProjects/blob/main/Solution4.java" target="_blank" rel="noopener noreferrer">Solution</a>
 
 
